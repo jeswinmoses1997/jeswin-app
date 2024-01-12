@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+                     C O P Y R I G H T  (c) 2015
+        A G F A   H E A L T H C A R E   C O R P O R A T I O N
+                        All Rights Reserved
+
+
+            THIS IS UNPUBLISHED PROPRIETARY SOURCE CODE OF
+                          AGFA CORPORATION
+           The copyright notice above does not evidence any
+          actual or intended publication of such source code.
+
+-->
+<beans xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+                           http://xmlns.jcp.org/xml/ns/javaee/beans_1_1.xsd"
+       version="1.1" bean-discovery-mode="all">
+</beans>
